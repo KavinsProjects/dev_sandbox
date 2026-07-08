@@ -1,0 +1,7 @@
+# Environment Variables & Local Secrets
+.env
+# Dependencies
+/node_modules
+
+#vscode
+.vscode
