@@ -1,10 +1,10 @@
-import Desktop from "./components/Desktop"
+import Login from "./components/login"
 
 function App() {
 
   return (
     <div>
-      <Desktop />
+      <Login/>
     </div>
   )
 
